@@ -8,7 +8,7 @@ public class healthcheck {
     @GetMapping("/health-check")
     public String healthckeck()
     {
-        return "ok";
+        return "subhajit";
     }
 
 }
